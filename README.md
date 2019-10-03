@@ -77,3 +77,7 @@ Front:
 ## Support or Contact
 
 For further information or partnership, please contact [lsidorki](https://github.com/lsidorki) or [pkedzier](https://github.com/lsidorki).
+
+## Credits
+
+Icons made by [turkkub](https://www.flaticon.com/authors/turkkub)">turkkub.
