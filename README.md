@@ -39,7 +39,7 @@ The basic user data is provided by connecting with external services
 Pasiphae allows user to create music collections. Is is especially helpful while creating summaries of different releases and organize them in a structured way, for instance weekly, mothly charts, etc.
 
 ## Timeline
-
+![](./img/calendar.png)
 Dates are still subject of discussion and can change.
 
 Date | Activity
