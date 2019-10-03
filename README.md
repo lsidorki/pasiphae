@@ -14,39 +14,66 @@ The goal of the project is to provide users with ability to organize their favor
 
 With pasiphae it will be easy to rate the music, which has just been played with user's favorite music player. Integration with popular streaming services, such as Spotify, Tidal, Apple Music or Deezer is expected. Also it is the user, who defines the precision of music rating. Therefore it is possible to introduce a detailed level of music comparison.
 
-### feature 1
+System also shows albums, which have similar similar ratings given by the user. Afterwards can be decided, whether the rating is correct or is worth changing.
 
-You can use the [editor on GitHub](https://github.com/lsidorki/pasiphae/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Follow your favorite artist
 
+By following the favorite artist user has an access to a common artist feed, providing latest nest posted on social media and official website. Also information about the latest releases is presented in the feed.
 
-## Markdown
+### External services integration
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The basic user data is provided by connecting with external services
+- Streaming (Spotify, Tidal, Deezer, Apple Music, Soundcloud, Bandcamp, etc.)
+- Social Media (Facebook, Twitter, Last.FM)
+- Music Databases (Discogs)
 
-```markdown
-Syntax highlighted code block
+### External services integration
 
-# Header 1
-## Header 2
-### Header 3
+The basic user data is provided by connecting with external services
+* Streaming (Spotify, Tidal, Deezer, Apple Music, Soundcloud, Bandcamp, etc.)
+* Social Media (Facebook, Twitter, Last.FM)
+* Music Databases (Discogs)
 
-- Bulleted
-- List
+### Create music collections and summaries
 
-1. Numbered
-2. List
+Pasiphae allows user to create music collections. Is is especially helpful while creating summaries of different releases and organize them in a structured way, for instance weekly, mothly charts, etc.
 
-**Bold** and _Italic_ and `Code` text
+## Timeline
 
-[Link](url) and ![Image](src)
-```
+Dates are still subject of discussion and can change.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Date | Activity
+------- | -------
+2019-10 | Initial Documentation
+2019-10 | Application skeleton
+2019-10 | Formalities related to external services integration
+2019-11 | Spotify API integration
+2019-11 | User data fetching and presenting
+2019-11 | Last played music fetching
+2019-12 | User profiles
+2019-12 | Last.FM integration
+2019-12 | Basic rating system
+2019-01 | Discogs Integration
+2020-01 | iTunes, Apple Music integration
+2020-01 | Extended rating system
+2020-02 | Music collections
+2020-02 | Batches for data processing
+2020-03 | Music recommendation
+2020-05 | Artist feed
+2020-06 | Styling
+2020-07 | Other external services integration
+2020-08 | Go Live
 
-### Jekyll Themes
+## Technologies
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lsidorki/pasiphae/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Server:
+* Spring
+* Hibernate
+
+Front:
+* Angular
+* Material
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For further information or partnership, please contact [lsidorki](https://github.com/lsidorki) or [pkedzier](https://github.com/lsidorki).
