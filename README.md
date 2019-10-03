@@ -74,6 +74,6 @@ Front:
 * Angular
 * Material
 
-### Support or Contact
+## Support or Contact
 
 For further information or partnership, please contact [lsidorki](https://github.com/lsidorki) or [pkedzier](https://github.com/lsidorki).
