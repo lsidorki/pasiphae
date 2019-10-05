@@ -15,6 +15,7 @@ The goal of the project is to provide users with ability to organize their favor
 With pasiphae it will be easy to rate the music, which has just been played with user's favorite music player. Integration with popular streaming services, such as Spotify, Tidal, Apple Music or Deezer is expected. Also it is the user, who defines the precision of music rating. Therefore it is possible to introduce a detailed level of music comparison.
 
 System also shows albums, which have similar similar ratings given by the user. Afterwards can be decided, whether the rating is correct or is worth changing.
+![rating mockup](/img/rating_design.PNG)
 
 ### Follow your favorite artist
 
