@@ -2,19 +2,19 @@
 
 ## Overview
 
-Pasiphae is a music library manager which allows users to organize, rate and share their music among their friends. It allows them also to follow closely to their favorite artists, create favorite playlists, get always updated about the new releases and organize their music collections. 
+Pasiphae is a music library manager which allows users to organize, rate and share their music among their friends. It allows them also to follow closely to their favorite artists, create playlists, get always updated about the new releases and organize their music collections. 
 
 At the early stage of the project the basic concept is being designed. A tool is free to use for everyone.
 
 ## Main Features
 
-The goal of the project is to provide users with ability to organize their favorite music into personalized collections and rate the music which they have recently listened to. This chapter briefly describes the main features of Pasiphae.
+The goal of the project is to provide users with ability to organize their favorite music into personalized collections, rate the music which they have recently listened to and always stay updated about the newest releases. This chapter briefly describes the main features of Pasiphae.
 
 ### Rate your music
 
-With pasiphae it will be easy to rate the music, which has just been played with user's favorite music player. Integration with popular streaming services, such as Spotify, Tidal, Apple Music or Deezer is expected. Also it is the user, who defines the precision of music rating. Therefore it is possible to introduce a detailed level of music comparison.
+With pasiphae it will be easy to rate the music, which has just been played with user's favorite music player. Integration with popular streaming services, such as Spotify, Tidal, Apple Music or Deezer is expected. Also it is the user, who defines the precision of music rating while creating rankings. Therefore it is possible to introduce a detailed level of music comparison.
 
-System also shows albums, which have similar similar ratings given by the user. Afterwards can be decided, whether the rating is correct or is worth changing.
+System also shows albums, which have similar ratings given by the user. Afterwards can be decided, whether the rating is correct or is worth changing.
 ![rating mockup](/img/rating_design.PNG)
 
 ### Follow your favorite artist
@@ -37,7 +37,15 @@ The basic user data is provided by connecting with external services
 
 ### Create music collections and summaries
 
-Pasiphae allows user to create music collections. Is is especially helpful while creating summaries of different releases and organize them in a structured way, for instance weekly, mothly charts, etc.
+Pasiphae allows user to create music collections. Is is especially helpful while creating summaries of different releases and organize them in a structured way, for instance weekly, mothly charts, etc. Pasiphae will also suggest the ranking, which might be interesting for you!
+
+### Create playlists
+
+Export your ranking to your favorite music player as a playlist. Choose the most representative tracks from each album and export your playlist
+
+### Work in team
+
+Create team to collaborate with other users. Represent your organization, radio station, magazine, music festival or just a bunch of friends! Choose their role and start creating rankings and playlists!
 
 ## Timeline
 Dates are still subject of discussion and can change.
@@ -77,7 +85,3 @@ Front:
 ## Support or Contact
 
 For further information or partnership, please contact [lsidorki](https://github.com/lsidorki) or [pkedzier](https://github.com/lsidorki).
-
-## Credits
-
-Icons made by [turkkub](https://www.flaticon.com/authors/turkkub)">turkkub.
